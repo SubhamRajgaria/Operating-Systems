@@ -1,0 +1,267 @@
+Enter number of producers
+Enter number of consumers
+smem_id: shmget returned 28770365
+Producer 3:450761 time: Mon Jan 29 17:32:03 2018
+Index in producer 3 is : 0
+Consumer 3:450761 time: Mon Jan 29 17:32:03 2018
+Index in consumer 3 is : 0
+Producer 4:301429 time: Mon Jan 29 17:32:05 2018
+Index in producer 4 is : 1
+Producer 3:345811 time: Mon Jan 29 17:32:05 2018
+Index in producer 3 is : 2
+Consumer 5:301429 time: Mon Jan 29 17:32:05 2018
+Index in consumer 5 is : 1
+Consumer 2:301429 time: Mon Jan 29 17:32:05 2018
+Index in consumer 2 is : 2
+Consumer 1:301429 time: Mon Jan 29 17:32:05 2018
+Index in consumer 1 is : 3
+Consumer 3:0 time: Mon Jan 29 17:32:05 2018
+Index in consumer 3 is : 4
+Consumer 4:345811 time: Mon Jan 29 17:32:05 2018
+Index in consumer 4 is : 0
+Producer 2:260873 time: Mon Jan 29 17:32:06 2018
+Index in producer 2 is : 3
+Producer 1:927517 time: Mon Jan 29 17:32:06 2018
+Index in producer 1 is : 4
+Consumer 5:301429 time: Mon Jan 29 17:32:06 2018
+Index in consumer 5 is : 1
+Producer 3:179909 time: Mon Jan 29 17:32:06 2018
+Index in producer 3 is : 0
+Producer 4:122741 time: Mon Jan 29 17:32:06 2018
+Index in producer 4 is : 0
+Producer 1:572653 time: Mon Jan 29 17:32:07 2018
+Index in producer 1 is : 2
+Consumer 4:572653 time: Mon Jan 29 17:32:07 2018
+Index in consumer 4 is : 2
+Producer 2:803591 time: Mon Jan 29 17:32:09 2018
+Index in producer 2 is : 3
+Consumer 3:803591 time: Mon Jan 29 17:32:09 2018
+Index in consumer 3 is : 3
+Consumer 2:803591 time: Mon Jan 29 17:32:09 2018
+Index in consumer 2 is : 3
+Consumer 4:803591 time: Mon Jan 29 17:32:09 2018
+Index in consumer 4 is : 3
+Consumer 1:301429 time: Mon Jan 29 17:32:09 2018
+Index in consumer 1 is : 1
+Producer 3:632857 time: Mon Jan 29 17:32:09 2018
+Index in producer 3 is : 4
+Producer 3:728869 time: Mon Jan 29 17:32:09 2018
+Index in producer 3 is : 0
+Consumer 4:572653 time: Mon Jan 29 17:32:10 2018
+Index in consumer 4 is : 2
+Consumer 4:803591 time: Mon Jan 29 17:32:10 2018
+Index in consumer 4 is : 3
+Producer 1:732029 time: Mon Jan 29 17:32:10 2018
+Index in producer 1 is : 1
+Consumer 5:632857 time: Mon Jan 29 17:32:10 2018
+Index in consumer 5 is : 4
+Producer 4:473867 time: Mon Jan 29 17:32:10 2018
+Index in producer 4 is : 2
+Consumer 5:728869 time: Mon Jan 29 17:32:10 2018
+Index in consumer 5 is : 0
+Producer 3:303283 time: Mon Jan 29 17:32:10 2018
+Index in producer 3 is : 3
+Producer 3:489061 time: Mon Jan 29 17:32:10 2018
+Index in producer 3 is : 4
+Consumer 3:732029 time: Mon Jan 29 17:32:11 2018
+Index in consumer 3 is : 1
+Consumer 2:732029 time: Mon Jan 29 17:32:11 2018
+Index in consumer 2 is : 1
+Producer 2:506773 time: Mon Jan 29 17:32:11 2018
+Index in producer 2 is : 0
+Consumer 1:303283 time: Mon Jan 29 17:32:12 2018
+Index in consumer 1 is : 3
+Producer 4:359621 time: Mon Jan 29 17:32:12 2018
+Index in producer 4 is : 1
+Producer 3:202973 time: Mon Jan 29 17:32:12 2018
+Index in producer 3 is : 2
+Consumer 1:489061 time: Mon Jan 29 17:32:13 2018
+Index in consumer 1 is : 4
+Producer 1:46507 time: Mon Jan 29 17:32:13 2018
+Index in producer 1 is : 3
+Consumer 3:506773 time: Mon Jan 29 17:32:14 2018
+Index in consumer 3 is : 0
+Consumer 2:506773 time: Mon Jan 29 17:32:14 2018
+Index in consumer 2 is : 0
+Producer 3:897461 time: Mon Jan 29 17:32:14 2018
+Index in producer 3 is : 4
+Consumer 2:202973 time: Mon Jan 29 17:32:14 2018
+Index in consumer 2 is : 2
+Producer 3:115321 time: Mon Jan 29 17:32:14 2018
+Index in producer 3 is : 0
+Consumer 4:46507 time: Mon Jan 29 17:32:14 2018
+Index in consumer 4 is : 3
+Consumer 4:897461 time: Mon Jan 29 17:32:14 2018
+Index in consumer 4 is : 4
+Producer 4:542747 time: Mon Jan 29 17:32:14 2018
+Index in producer 4 is : 1
+Consumer 5:115321 time: Mon Jan 29 17:32:14 2018
+Index in consumer 5 is : 0
+Consumer 5:542747 time: Mon Jan 29 17:32:14 2018
+Index in consumer 5 is : 1
+Producer 2:335609 time: Mon Jan 29 17:32:15 2018
+Index in producer 2 is : 2
+Producer 2:42667 time: Mon Jan 29 17:32:15 2018
+Index in producer 2 is : 3
+Producer 2:399689 time: Mon Jan 29 17:32:15 2018
+Index in producer 2 is : 4
+Consumer 3:335609 time: Mon Jan 29 17:32:15 2018
+Index in consumer 3 is : 2
+Producer 4:209987 time: Mon Jan 29 17:32:15 2018
+Index in producer 4 is : 0
+Consumer 2:42667 time: Mon Jan 29 17:32:16 2018
+Index in consumer 2 is : 3
+Consumer 4:42667 time: Mon Jan 29 17:32:16 2018
+Index in consumer 4 is : 3
+Consumer 1:399689 time: Mon Jan 29 17:32:16 2018
+Index in consumer 1 is : 0
+Producer 1:861437 time: Mon Jan 29 17:32:17 2018
+Index in producer 1 is : 1
+Producer 2:716827 time: Mon Jan 29 17:32:17 2018
+Index in producer 2 is : 1
+Consumer 5:716827 time: Mon Jan 29 17:32:17 2018
+Index in consumer 5 is : 1
+Consumer 2:716827 time: Mon Jan 29 17:32:17 2018
+Index in consumer 2 is : 1
+Producer 3:4253 time: Mon Jan 29 17:32:18 2018
+Index in producer 3 is : 3
+Producer 4:598729 time: Mon Jan 29 17:32:18 2018
+Index in producer 4 is : 4
+Consumer 3:598729 time: Mon Jan 29 17:32:18 2018
+Index in consumer 3 is : 3
+Consumer 5:399689 time: Mon Jan 29 17:32:18 2018
+Index in consumer 5 is : 4
+Producer 3:438409 time: Mon Jan 29 17:32:19 2018
+Index in producer 3 is : 0
+Producer 2:886337 time: Mon Jan 29 17:32:19 2018
+Index in producer 2 is : 1
+Consumer 1:886337 time: Mon Jan 29 17:32:19 2018
+Index in consumer 1 is : 0
+Producer 1:32173 time: Mon Jan 29 17:32:19 2018
+Index in producer 1 is : 2
+Producer 4:829883 time: Mon Jan 29 17:32:19 2018
+Index in producer 4 is : 3
+Producer 4:906749 time: Mon Jan 29 17:32:19 2018
+Index in producer 4 is : 4
+Consumer 5:716827 time: Mon Jan 29 17:32:19 2018
+Index in consumer 5 is : 1
+Consumer 4:32173 time: Mon Jan 29 17:32:20 2018
+Index in consumer 4 is : 2
+Producer 4:293213 time: Mon Jan 29 17:32:20 2018
+Index in producer 4 is : 0
+Consumer 5:829883 time: Mon Jan 29 17:32:20 2018
+Index in consumer 5 is : 3
+Consumer 4:906749 time: Mon Jan 29 17:32:21 2018
+Index in consumer 4 is : 4
+Consumer 3:293213 time: Mon Jan 29 17:32:21 2018
+Index in consumer 3 is : 0
+Consumer 2:293213 time: Mon Jan 29 17:32:21 2018
+Index in consumer 2 is : 0
+Producer 2:430553 time: Mon Jan 29 17:32:21 2018
+Index in producer 2 is : 1
+Consumer 3:32173 time: Mon Jan 29 17:32:21 2018
+Index in consumer 3 is : 2
+Consumer 3:829883 time: Mon Jan 29 17:32:21 2018
+Index in consumer 3 is : 3
+Consumer 1:293213 time: Mon Jan 29 17:32:21 2018
+Index in consumer 1 is : 0
+Producer 3:853807 time: Mon Jan 29 17:32:22 2018
+Index in producer 3 is : 2
+Consumer 2:293213 time: Mon Jan 29 17:32:22 2018
+Index in consumer 2 is : 0
+Consumer 2:430553 time: Mon Jan 29 17:32:22 2018
+Index in consumer 2 is : 1
+Producer 1:413009 time: Mon Jan 29 17:32:23 2018
+Index in producer 1 is : 3
+Producer 4:474169 time: Mon Jan 29 17:32:23 2018
+Index in producer 4 is : 4
+Consumer 5:853807 time: Mon Jan 29 17:32:24 2018
+Index in consumer 5 is : 2
+Consumer 5:413009 time: Mon Jan 29 17:32:24 2018
+Index in consumer 5 is : 3
+Consumer 5:474169 time: Mon Jan 29 17:32:24 2018
+Index in consumer 5 is : 4
+Producer 3:385579 time: Mon Jan 29 17:32:25 2018
+Index in producer 3 is : 0
+Consumer 3:385579 time: Mon Jan 29 17:32:25 2018
+Index in consumer 3 is : 0
+Consumer 4:385579 time: Mon Jan 29 17:32:25 2018
+Index in consumer 4 is : 0
+Consumer 1:853807 time: Mon Jan 29 17:32:25 2018
+Index in consumer 1 is : 2
+Consumer 1:413009 time: Mon Jan 29 17:32:25 2018
+Index in consumer 1 is : 3
+Consumer 5:474169 time: Mon Jan 29 17:32:25 2018
+Index in consumer 5 is : 4
+Producer 2:462437 time: Mon Jan 29 17:32:25 2018
+Index in producer 2 is : 1
+Producer 2:565247 time: Mon Jan 29 17:32:25 2018
+Index in producer 2 is : 2
+Consumer 2:385579 time: Mon Jan 29 17:32:25 2018
+Index in consumer 2 is : 0
+Consumer 2:462437 time: Mon Jan 29 17:32:25 2018
+Index in consumer 2 is : 1
+Producer 3:854017 time: Mon Jan 29 17:32:26 2018
+Index in producer 3 is : 3
+Producer 4:555209 time: Mon Jan 29 17:32:26 2018
+Index in producer 4 is : 3
+Consumer 3:565247 time: Mon Jan 29 17:32:26 2018
+Index in consumer 3 is : 2
+Producer 3:753229 time: Mon Jan 29 17:32:26 2018
+Index in producer 3 is : 4
+Consumer 4:565247 time: Mon Jan 29 17:32:26 2018
+Index in consumer 4 is : 2
+Consumer 2:753229 time: Mon Jan 29 17:32:26 2018
+Index in consumer 2 is : 4
+Producer 1:622187 time: Mon Jan 29 17:32:27 2018
+Index in producer 1 is : 1
+Consumer 4:385579 time: Mon Jan 29 17:32:27 2018
+Index in consumer 4 is : 0
+Producer 2:195659 time: Mon Jan 29 17:32:27 2018
+Index in producer 2 is : 2
+Producer 2:826963 time: Mon Jan 29 17:32:27 2018
+Index in producer 2 is : 3
+Producer 1:546863 time: Mon Jan 29 17:32:28 2018
+Index in producer 1 is : 4
+Consumer 2:622187 time: Mon Jan 29 17:32:28 2018
+Index in consumer 2 is : 1
+Consumer 2:195659 time: Mon Jan 29 17:32:28 2018
+Index in consumer 2 is : 2
+Producer 4:300889 time: Mon Jan 29 17:32:28 2018
+Index in producer 4 is : 0
+Producer 3:884693 time: Mon Jan 29 17:32:28 2018
+Index in producer 3 is : 0
+Consumer 1:826963 time: Mon Jan 29 17:32:29 2018
+Index in consumer 1 is : 3
+Consumer 5:826963 time: Mon Jan 29 17:32:29 2018
+Index in consumer 5 is : 4
+Producer 1:504353 time: Mon Jan 29 17:32:29 2018
+Index in producer 1 is : 2
+Producer 2:748963 time: Mon Jan 29 17:32:29 2018
+Index in producer 2 is : 3
+Consumer 3:884693 time: Mon Jan 29 17:32:30 2018
+Index in consumer 3 is : 0
+Consumer 3:622187 time: Mon Jan 29 17:32:30 2018
+Index in consumer 3 is : 1
+Producer 1:533879 time: Mon Jan 29 17:32:30 2018
+Index in producer 1 is : 4
+Consumer 4:504353 time: Mon Jan 29 17:32:30 2018
+Index in consumer 4 is : 2
+Consumer 2:748963 time: Mon Jan 29 17:32:30 2018
+Index in consumer 2 is : 3
+Producer 2:525713 time: Mon Jan 29 17:32:31 2018
+Index in producer 2 is : 0
+Consumer 1:533879 time: Mon Jan 29 17:32:32 2018
+Index in consumer 1 is : 4
+Consumer 3:525713 time: Mon Jan 29 17:32:32 2018
+Index in consumer 3 is : 0
+Producer 4:845137 time: Mon Jan 29 17:32:32 2018
+Index in producer 4 is : 1
+Producer 3:450227 time: Mon Jan 29 17:32:32 2018
+Index in producer 3 is : 1
+Producer 4:497323 time: Mon Jan 29 17:32:32 2018
+Index in producer 4 is : 2
+Consumer 4:845137 time: Mon Jan 29 17:32:32 2018
+Index in consumer 4 is : 1
+Consumer 2:497323 time: Mon Jan 29 17:32:32 2018
+Index in consumer 2 is : 2

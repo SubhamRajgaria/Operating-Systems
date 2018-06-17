@@ -1,0 +1,6 @@
+# Example page reference trace
+# These are optional comment lines
+1 25
+0 45
+0 18
+1 17

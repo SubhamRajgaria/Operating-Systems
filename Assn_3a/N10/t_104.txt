@@ -1,0 +1,7 @@
+Enter number of processes 
+Enter mean 
+ Average Turnaround time with FCFS = 18.9
+Average turnaround time for PSJF is : 10.5
+Average turnaround time for RoundRobin is : 16.9
+Average turnaround time for RoundRobin is : 17.4
+Average turnaround time for RoundRobin is : 17.6

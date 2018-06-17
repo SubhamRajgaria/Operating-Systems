@@ -1,0 +1,4 @@
+Time arrivals are :
+0 2 4 2 7 6 6 1 0 8 
+ Bursts time are : 
+17 10 6 3 4 6 18 9 6 9 
